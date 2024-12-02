@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2,
+        "title": "Задача 2",
+        "description": "Описание задачи 2",
+        "category": "Личное",
+        "due_date": "2023-10-05",
+        "priority": "Средний",
+        "status": "Не выполнена"
+    },
+    {
+        "id": 3,
+        "title": "Задача 3",
+        "description": "Описание задачи 3",
+        "category": "Учеба",
+        "due_date": "2023-10-10",
+        "priority": "Низкий",
+        "status": "Выполнена"
+    },
+    {
+        "id": 4,
+        "title": "Задача 4",
+        "description": "Описание задачи 4",
+        "category": "Работа",
+        "due_date": "2023-10-15",
+        "priority": "Высокий",
+        "status": "Не выполнена"
+    },
+    {
+        "id": 5,
+        "title": "Задача 5",
+        "description": "Описание задачи 5",
+        "category": "Личное",
+        "due_date": "2023-10-20",
+        "priority": "Средний",
+        "status": "Не выполнена"
+    },
+    {
+        "id": 6,
+        "title": "poiuy",
+        "description": "фыв",
+        "category": "ыыс",
+        "due_date": "вамя",
+        "priority": "Низкий",
+        "status": "Выполнена"
+    }
+]
